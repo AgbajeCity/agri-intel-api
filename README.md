@@ -56,15 +56,3 @@ We built this project to **exceed** the hackathon's requirements:
 
 ### 3. Demo Video
 * **Link:** https://drive.google.com/file/d/1ueC5KlR7QbyzvgFFnY8yF-rIzmYlpxjs/view?usp=sharing
-
----
-
-### Your Final Action Steps (32 Minutes Remaining)
-
-1.  **Paste your Contract Address:** Replace `[YOUR CONTRACT ADDRESS HERE]` with the address you copied from Remix.
-2.  **Commit:** Scroll to the bottom and click the green **"Commit changes"** button.
-3.  **Record Video:** Record your 2-minute demo video *now*. Get the link.
-4.  **Update `README.md`:** Edit your `README.md` *one last time* to paste the video link where it says `[YOUR DEMO VIDEO LINK HERE]`, and commit the change.
-5.  **SUBMIT:** Go to the HackQuest submission page and submit your GitHub Repository URL.
-
-You are ready. Go.
