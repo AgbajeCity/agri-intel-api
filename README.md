@@ -55,7 +55,7 @@ We built this project to **exceed** the hackathon's requirements:
 * **Deployed Contract Address:** 0x6bB21CdDfd7CfD8D65f67Cb359A77Fc68926164C
 
 ### 3. Demo Video
-* **Loom/YouTube Link:** `[YOUR DEMO VIDEO LINK HERE]`
+* **Link:** https://drive.google.com/file/d/1ueC5KlR7QbyzvgFFnY8yF-rIzmYlpxjs/view?usp=sharing
 
 ---
 
