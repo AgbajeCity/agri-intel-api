@@ -2,7 +2,7 @@
 
 This project is a submission for the **Africa Blockchain Festival 2025 Hackathon**, focused on leveraging **Blockchain and AI** to revolutionise African agriculture.
 
-Agri-Intel solves the biggest barrier to growth for **African farmers**: **a fundamental lack of trust and transparency in the global commodity trade.** We replace slow, exploitative systems with a single, unbreakable digital contract that prioritizes the farmer's economic welfare.
+Agri-Intel solves the biggest barrier to growth for **African farmers**: **a fundamental lack of trust and transparency in the global commodity trade.** We replace slow, exploitative systems with a single, unbreakable digital contract that prioritises the farmer's economic welfare.
 
 ## The Problem (The Agricultural Inequity)
 
@@ -16,7 +16,7 @@ Our solution is an **AI Oracle** that enables fair trade, guaranteed on-chain. I
 We built and deployed a live API that simulates an AI engine. It provides the objective truth about the market: **real-time, fair-market prices for agricultural commodities**, giving farmers the data needed for fair negotiation.
 
 ### 2. The "Blockchain Trust" (A Price-Aware Smart Contract)
-We developed a "Price-Aware Escrow" smart contract, deployed on Sepolia. This contract acts as an on-chain vault for payment. Its key function is that it **automatically rejects payments that are unfairly low**, ensuring that the buyer meets the market price determined by our AI.
+We developed a "Price-Aware Escrow" smart contract, deployed on Sepolia. This contract acts as an on-chain vault for payment. Its key function is to **automatically reject unfairly low payments**, ensuring the buyer meets the market price set by our AI.
 
 ---
 
@@ -29,22 +29,17 @@ The power of our project lies in how we bridge the two technologies. **Our AI pr
 
 **Workflow and Result:** When a buyer attempts payment, the smart contract automatically runs a price check. The transaction is **rejected by the blockchain** if the buyer's price is unfairly low, making fair trade **unavoidable** and payment **instantaneous**.
 
----
 
-## **Meeting the Hackathon Judging Criteria**
+We built this project to meet the following requirements:
 
-We built this project to **exceed** the hackathon's requirements:
+* The entire mechanism is centred on the `PriceAwareEscrow` smart contract that enforces price fairness on-chain.
+* We provide two pieces of live, deployed code: a **live API** (AI component) and a **verified smart contract** (Blockchain component).
+* The solution is practical, ensuring the farmer gets the maximum benefit from their harvest without trust risk.
+* Our end-users are **African farmers** (primary beneficiaries). The solution addresses their direct pain points: price discovery and payment security.
+* This MVP is highly scalable across **African agricultural supply chains**. It forms the foundation for decentralised micro-lending to farmers, using the AI-verified crop value as collateral.
+* Our GitHub repository is public, our API is live, and our contract is deployed on the public Sepolia testnet.
 
-* **Blockchain Focus:** **YES.** The entire mechanism is centered on the `PriceAwareEscrow` smart contract that enforces price fairness on-chain.
-* **Verifiable Code:** **YES.** We provide two pieces of live, deployed code: a **live API** (AI component) and a **verified smart contract** (Blockchain component).
-* **Usability:** **YES.** The solution is practical, ensuring the farmer gets the maximum benefit from their harvest without trust risk.
-* **Identified Users (Agriculture/Farmers):** **YES.** Our end-users are **African farmers** (primary beneficiaries). The solution addresses their direct pain points: price discovery and payment security.
-* **Real-World Potential:** **YES.** This MVP is highly scalable across **African agricultural supply chains**. It forms the foundation for decentralized micro-lending to farmers, using the AI-verified crop value as collateral.
-* **Accessible MVP:** **YES.** Our GitHub repository is public, our API is live, and our contract is deployed on the public Sepolia testnet.
-
----
-
-## Our Hackathon Deliverables
+## Hackathon Deliverables
 
 ### 1. Live AI API (The "Brain")
 * **Live URL:** `https://agri-intel-api.onrender.com`
