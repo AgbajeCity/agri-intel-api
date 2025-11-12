@@ -1,7 +1,5 @@
 # Agri-Intel: Blockchain-Enforced Fair Trade for African Farmers using AI
 
-This project is a submission for the **Africa Blockchain Festival 2025 Hackathon**, focused on leveraging **Blockchain and AI** to revolutionise African agriculture.
-
 Agri-Intel solves the biggest barrier to growth for **African farmers**: **a fundamental lack of trust and transparency in the global commodity trade.** We replace slow, exploitative systems with a single, unbreakable digital contract that prioritises the farmer's economic welfare.
 
 ## The Problem (The Agricultural Inequity)
@@ -37,7 +35,7 @@ We built this project to meet the following requirements:
 * The solution is practical, ensuring the farmer gets the maximum benefit from their harvest without trust risk.
 * Our end-users are **African farmers** (primary beneficiaries). The solution addresses their direct pain points: price discovery and payment security.
 * This MVP is highly scalable across **African agricultural supply chains**. It forms the foundation for decentralised micro-lending to farmers, using the AI-verified crop value as collateral.
-* Our GitHub repository is public, our API is live, and our contract is deployed on the public Sepolia testnet.
+* Our API is live, and our contract is deployed on the public Sepolia testnet.
 
 ## Hackathon Deliverables
 
